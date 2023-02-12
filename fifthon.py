@@ -26,7 +26,7 @@ fifthon.start()
 y = datetime.datetime.now().year
 m = datetime.datetime.now().month
 dayy = datetime.datetime.now().day
-day = datetime.datetime.now().strftime("%A")
+اليوم  =  التاريخ والوقت . التاريخ والوقت . الآن (). strftime ( "٪ A" )
 m9zpi = f"{y}-{m}-{dayy}"
 sec = time.time()
 
@@ -109,7 +109,7 @@ async def _(event):
 ☆ Ping : `{ms}`
 ☆ Date : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ Source fifthon : @FIFTHON**
+☆ Source fifthon : @E_7_H**
 ''')
 
 
