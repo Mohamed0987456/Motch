@@ -154,4 +154,3 @@ async def update(event):
 
 print("- fifthon Userbot Running ..")
 fifthon.run_until_disconnected()
-)
